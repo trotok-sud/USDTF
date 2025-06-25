@@ -1,1 +1,25 @@
+# Ignore temp directory
 ../temp/
+
+# Node dependencies
+node_modules/
+
+# Build artifacts
+build/
+dist/
+output.json
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
