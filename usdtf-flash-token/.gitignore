@@ -1,10 +1,8 @@
-# Ignore temp directory
-../temp/
-
 # Node dependencies
 node_modules/
 
 # Build artifacts
+artifacts/
 build/
 dist/
 output.json
