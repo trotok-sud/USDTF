@@ -28,9 +28,7 @@ contract USDTF {
     uint8 public decimals = 6;
     uint256 public totalSupply;
     address public owner;
-    string public logoURI = "ipfs://bafkreievhlhdawjnbvrvmo3jsbqsn57nuoio3asx4ayvmzfixnuxvxlzke";
-
-
+    string public logoURI = "ipfs://bafkreih2lbt2spv3cvnadvcc5w3j43fmlfnehumx6kka5ocsioatun7asy";
 
     struct TokenLot {
         uint256 amount;
