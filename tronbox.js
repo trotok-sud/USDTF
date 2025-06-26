@@ -2,35 +2,24 @@ require('dotenv').config();
 
 module.exports = {
   networks: {
-    shasta: {
+    development: {
       privateKey: process.env.PRIVATE_KEY,
       userFeePercentage: 30,
-      feeLimit: 1000000000,
-      fullHost: 'https://api.shasta.trongrid.io',
-      network_id: '*',
+      feeLimit: 1e9,
+      fullHost: "http://127.0.0.1:9090",
+      network_id: "*"
     },
     nile: {
       privateKey: process.env.PRIVATE_KEY,
       userFeePercentage: 30,
-      feeLimit: 1000000000,
-      fullHost: 'https://api.nileex.io',
-      network_id: '*',
-    },
-    mainnet: {
-      privateKey: process.env.PRIVATE_KEY,
-      userFeePercentage: 30,
-      feeLimit: 1000000000,
-      fullHost: 'https://api.trongrid.io',
-      network_id: '*',
+      feeLimit: 1e9,
+      fullHost:"https://nile.trongrid.io",
+      network_id: "*"
     }
   },
   compilers: {
     solc: {
-      version: '0.5.10'
+      version: "0.5.10"
     }
   }
 };
-
-
-
-

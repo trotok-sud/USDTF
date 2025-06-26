@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/trotok-sud/USDTF#readme",
   "dependencies": {
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "solc": "^0.5.10"
   }
 }
