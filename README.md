@@ -45,13 +45,6 @@ Anyone may request a free demonstration token to test wallet interactions and sm
 
 ---
 
-## 📄 License & Legal
-
-```text
-SPDX-License-Identifier: UNLICENSED
-
----text
-
 ## 📚 Documentation & Resources
 
 - **Audit Report:**  
@@ -72,5 +65,11 @@ SPDX-License-Identifier: UNLICENSED
 
 - **Social Media:**  
   - Twitter: [https://x.com/roomshare7](https://x.com/roomshare7)  
-  - Telegram: *(Coming soon)*
+  - Telegram: https://t.me/+e3zPCnz5SqxiYzY0
 
+## 📄 License & Legal
+
+```text
+SPDX-License-Identifier: UNLICENSED
+
+---text
