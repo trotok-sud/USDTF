@@ -49,7 +49,8 @@ Anyone may request a free demonstration token to test wallet interactions and sm
 
 ```text
 SPDX-License-Identifier: UNLICENSED
----
+
+---text
 
 ## 📚 Documentation & Resources
 
