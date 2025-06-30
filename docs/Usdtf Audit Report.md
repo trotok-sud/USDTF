@@ -56,7 +56,7 @@ This audit covers the full review of `USDTF.sol`, which implements a custom, edu
 ## 📌 Post-Audit Update – Mythril Scan
 
 **Tool**: Mythril  
-**Scan Date**: July 2025  
+**Scan Date**: 30 June 2025  
 **Issue**: Exception State (SWC-110) – Potential out-of-bounds access in public array `holdings[address][index]`.
 
 ### 🧠 Risk Context
