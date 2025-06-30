@@ -49,3 +49,27 @@ Anyone may request a free demonstration token to test wallet interactions and sm
 
 ```text
 SPDX-License-Identifier: UNLICENSED
+---
+
+## 📚 Documentation & Resources
+
+- **Audit Report:**  
+  [Mythril Audit Report (JSON)](docs/mythril-report.json)  
+  [PDF Audit Report](https://github.com/trotok-sud/USDTF/blob/main/docs/Usdtf%20Audit%20Report.pdf)
+
+- **Whitepaper:**  
+  [USDTF Whitepaper](https://github.com/trotok-sud/USDTF/blob/main/docs/USDTF_Whitepaper.pdf)
+
+- **Logo:**  
+  ![USDTF Logo](https://raw.githubusercontent.com/trotok-sud/USDTF/main/docs/logo.png)
+
+- **Homepage:**  
+  https://trotok-sud.github.io/USDTWeb/
+
+- **GitHub Repository:**  
+  https://github.com/trotok-sud/USDTF
+
+- **Social Media:**  
+  - Twitter: [https://x.com/roomshare7](https://x.com/roomshare7)  
+  - Telegram: *(Coming soon)*
+
